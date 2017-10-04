@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context="com.cloudbanter.mms.ad.ui.CloudbanterPreferencesActivity">
+
+<item android:id="@+id/menu_item_preferences"
+    android:title="@string/menu_item_cb_preferences"
+    android:orderInCategory="100"/>
+
+<!--item android:id="@+id/menu_item_settings"
+      android:title="@string/menu_item_cb_settings"
+      android:orderInCategory="100"/ -->
+
+<item android:id="@+id/menu_item_about"
+      android:title="@string/menu_item_cb_about"
+      android:orderInCategory="100"/>
+
+</menu>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_item_share"
+        app:showAsAction="always"
+        android:title="Share"
+        android:icon="@drawable/ic_share"
+        />
+
+    <item android:title="@string/menu_item_see_more_ad"
+        android:id="@+id/menu_more_ads" />
+
+    <item android:title="@string/menu_item_see_less_ad"
+          android:id="@+id/menu_less_ads" />
+
+    <item android:title="@string/menu_item_see_more_biz"
+        android:id="@+id/menu_more_biz" />
+
+    <item android:title="@string/menu_item_delete_this"
+          android:id="@+id/menu_delete_ad" />
+
+    <!--<item android:title="@string/menu_item_remove_offer"-->
+        <!--android:id="@+id/menu_remove_offer" />-->
+
+    <!-- item android:title="@string/menu_item_use_offer"
+        android:id="@+id/menu_use_offer" / -->
+</menu>

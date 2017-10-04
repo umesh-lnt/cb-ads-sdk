@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <!-- Intentionally left in blank -->
+  <string name="preload_ad_data">{}</string>
+  <string name="cloudbanter_ad_data">{}</string>
+
+  <string name="facebook_data">{\"placement_id\":\"657772437732326_657817811061122\",\"adWidth\":\"320\",\"adHeight\":\"50\"}</string>
+  <string name="millennial_data">{\"adUnitID\":\"231138\",\"adWidth\":\"320\",\"adHeight\":\"50\"}</string>
+  <string name="in_mobi_data">{\"placementid\": \"1472513021435\", \"accountid\":\"64325bb8f3a04be79ffddd87b4b04990\"}</string>
+  <string name="flurry_data">{\"apiKey\":\"ZZ8QZ9PR66CN7TGFGMY5\",\"adSpaceName\":\"Cloudbanter Demo Ad Unit\"}</string>
+  <string name="smaato_data">{\"publisherId\": \"1100027743\",\"adSpaceId\": \"130198914\"}</string>
+  <string name="ad_mob_data">{\"adUnitID\":\"ca-app-pub-1597498642569251/5114462526\",\"adWidth\":\"320\",\"adHeight\":\"50\"}</string>
+  <string name="mopub_data">{\"adUnitID\":\"f6315b7dc80c4640b2738d3232d60f9f\",\"adWidth\":\"320\",\"adHeight\":\"50\"}</string>
+
+</resources>

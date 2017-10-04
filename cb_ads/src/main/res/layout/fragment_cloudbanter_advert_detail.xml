@@ -1,0 +1,48 @@
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  xmlns:tools="http://schemas.android.com/tools"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  tools:context="com.cloudbanter.adssdk.ad.ui.CloudbanterAdvertDetailFragment"
+  >
+
+  <RelativeLayout
+    android:id="@+id/cloudbanter_advert_detail_text"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+      android:id="@+id/cloudbanter_advert_detail_header"
+      style="?android:attr/textAppearanceLarge"
+      android:layout_width="match_parent"
+      android:layout_height="48dip"
+      android:gravity="center"
+      android:textIsSelectable="true"
+      />
+
+    <TextView
+      android:id="@+id/cloudbanter_advert_detail_body"
+      style="?android:attr/textAppearanceLarge"
+      android:layout_width="fill_parent"
+      android:layout_height="fill_parent"
+      android:layout_below="@id/cloudbanter_advert_detail_header"
+      android:padding="16dp"
+      android:textIsSelectable="true"
+      />
+  </RelativeLayout>
+
+  <ImageView
+    android:id="@+id/cloudbanter_advert_detail_image"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:visibility="gone"
+    />
+
+  <pl.droidsonroids.gif.GifImageView
+    android:id="@+id/advert_detail_gif_image"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:visibility="gone"/>
+</RelativeLayout>

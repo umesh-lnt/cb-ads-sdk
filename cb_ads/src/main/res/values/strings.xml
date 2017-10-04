@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">AdsSdk</string>
+    <string name="app_label">Cloudbanter ads</string>
+
+    <string name="imageRefTemplate">"http://s3-eu-west-1.amazonaws.com/%1$s.images.cloudbanter.com/advertisers/%2$s/%3$s/%4$s.%5$s"</string>
+    <string name="imagesBucketUrl" translatable="false">http://s3-eu-west-1.amazonaws.com/test.images.cloudbanter.com/advertisers</string>
+
+    <string name="splitImageFilePrefix" translatable="false">split_images_file_prefix</string>
+    <string name="banner_image_name" translatable="false">bannerImage</string>
+    <string name="full_image_name" translatable="false">"fullImage"</string>
+    <bool name="forceDownloads" translatable="false">true</bool>
+    <bool name="debugThis" translatable="false">true</bool>
+    <string name="cloudbanter_blank_advert" translatable="false">Cloudbanter</string>
+
+    <string name="preload_ad_image_view">Preload ad image view</string>
+    <string name="text_loading_webpage">Connecting...</string>
+    <string name="text_loading">Loading…</string>
+
+    <string name="app_version">2.2.2</string>
+
+    <!-- Cloudbanter Central -->
+    <string name="menu_item_see_more_ad">More adverts of this kind.</string>
+    <string name="menu_item_see_less_ad">Fewer adverts of this kind.</string>
+    <string name="menu_item_like_company">I like this company.</string>
+    <string name="menu_item_see_more_biz">More from this advertiser.</string>
+    <string name="menu_item_save_this">Save this advert to use later.</string>
+    <string name="menu_item_delete_this">Delete this advert.</string>
+    <string name="menu_item_remove_offer">Remove this offer.</string>
+    <string name="menu_item_use_offer">Use this offer.</string>
+    <string name="title_activity_cloudbanter_central">My Favorites</string>
+    <string name="text_cbc_empty_list">There are no current offers.</string>
+
+    <string name="share_button">Share</string>
+    <string name="external_storage_permissions_needed">Storage permissions are needed to send the picture/video</string>
+    <string name="text_recording_preferences">Recording your preferences</string>
+    <string name="menu_item_cb_preferences">My Preferences</string>
+    <string name="menu_item_cb_about">About</string>
+
+    <string name="male">Male</string>
+
+    <!-- Faceboo -->
+    <string name="facebook_app_id">1053550458075410</string>
+    <string name="facebook_authorities">com.facebook.app.FacebookContentProvider1053550458075410</string>
+
+    <!-- Delete button title -->
+    <string name="delete">Delete</string>
+
+    <!-- Preferences -->
+    <string name="custom_categories">User Categories</string>
+    <string name="title_cb_pref_list_0">Arts &amp; Entertainment</string>
+    <string name="title_cb_pref_list_1">Automotive</string>
+    <string name="title_cb_pref_list_2">Business</string>
+    <string name="title_cb_pref_list_3">Careers</string>
+    <string name="title_cb_pref_list_4">Education</string>
+    <string name="title_cb_pref_list_5">Family &amp; Parenting</string>
+    <string name="title_cb_pref_list_6">Health &amp; Fitness</string>
+    <string name="title_cb_pref_list_7">Food &amp; Drink</string>
+    <string name="title_cb_pref_list_8">Hobbies &amp; Interests</string>
+    <string name="title_cb_pref_list_9">Home &amp; Garden</string>
+    <string name="title_cb_pref_list_10">Law, Government &amp; Politics</string>
+    <string name="title_cb_pref_list_11">News</string>
+    <string name="title_cb_pref_list_12">Personal Finance</string>
+    <string name="title_cb_pref_list_13">Society</string>
+    <string name="title_cb_pref_list_14">Science</string>
+    <string name="title_cb_pref_list_15">Pets</string>
+    <string name="title_cb_pref_list_16">Sports</string>
+    <string name="title_cb_pref_list_17">Style &amp; Fashion</string>
+    <string name="title_cb_pref_list_18">Technology &amp; Computing</string>
+    <string name="title_cb_pref_list_19">Travel</string>
+    <string name="title_cb_pref_list_20">Real Estate</string>
+    <string name="title_cb_pref_list_21">Shopping</string>
+    <string name="title_cb_pref_list_22">Religion &amp; Spirituality</string>
+</resources>
